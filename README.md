@@ -9,4 +9,4 @@ __________________________________________________
   There will be more fun projects to come ,just wait and see !!!!!
 
 ## Preview
-  ![]("shoe.jpg")
+  ![](shoecard.png)
